@@ -1,4 +1,4 @@
-Project title - WooliesX API CAutomation - Automation project for WooliesX
+Project title - API Automation - Automation project
 
 Tools and packages
 - VisualStudio 2019
